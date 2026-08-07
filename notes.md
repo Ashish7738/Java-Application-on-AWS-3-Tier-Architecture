@@ -6,3 +6,4 @@ Clarify naming
 Check documentation
 Verify flow
 Refactor candidate
+Recheck assumptions
