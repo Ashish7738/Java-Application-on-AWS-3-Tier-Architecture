@@ -7,3 +7,4 @@ Check documentation
 Verify flow
 Refactor candidate
 Recheck assumptions
+Reviewed approach
