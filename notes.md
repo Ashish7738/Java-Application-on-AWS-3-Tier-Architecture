@@ -8,3 +8,4 @@ Verify flow
 Refactor candidate
 Recheck assumptions
 Reviewed approach
+Add example
