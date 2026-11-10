@@ -493,26 +493,3 @@ df -h
 ps -eLf | grep java | wc -l
 ```
 
-# Contributing
-
-## How to Contribute
-
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a Pull Request
-
-## Development Setup
-
-```bash
-# Clone repository
-git clone https://github.com/yourusername/your-repo.git
-
-# Install dependencies
-mvn install
-
-# Run tests
-mvn test
-```
-
